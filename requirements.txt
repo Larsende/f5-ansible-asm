@@ -43,7 +43,7 @@ oauthlib==2.0.2
 openstacksdk==0.9.14
 os-client-config==1.26.0
 packaging==16.8
-paramiko==2.1.2
+paramiko==2.10.1
 pbr==2.0.0
 pexpect==4.2.1
 positional==1.1.1
